@@ -1,11 +1,15 @@
-[![MasterHead](https://iabac.org/blog/uploads/images/202405/image_870x_6645d79a7a111.jpg)
+![MasterHead](https://iabac.org/blog/uploads/images/202405/image_870x_6645d79a7a111.jpg)
 
 <h1 align="center">Hi 👋, I'm Ercan Duman</h1>
 <h3 align="center">Like to work on Python, Robotics</h3>
 
-- 🔭 I’m currently studying in **İskenderun Technical University**
+- 🔭 1. Major Science Education **Middle East Technical University**
 
-- 🌱 I’m currently learning **AI,Robotics,Machine Learning, Python**
+- 🔭 2. Major Business Administration **Anatolian University**
+
+- 🔭 3. Major Computer Engineer **İskenderun Technical University**
+
+- 🌱 Like all developers :) I’m currently learning **AI,Robotics,Machine Learning, Python**
 
 - 👯 I’m working in **MEB**
 
