@@ -11,7 +11,7 @@
 
 - 🌱 Like all developers :) I’m currently learning **AI,Robotics,Machine Learning, Python**
 
-- 👯 I’m working in **MEB**
+- 👯 I’m working in **MEB as Information Technologies Teacher**
 
 - 📫 How to reach me **ercanduman11@gmail.com**
 
