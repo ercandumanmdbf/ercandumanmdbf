@@ -7,7 +7,9 @@
 
 - 🔭 2. Major Business Administration **Anatolian University**
 
-- 🔭 3. Major Computer Engineer **İskenderun Technical University**
+- 🔭 3. Major Computer Engineering **İskenderun Technical University**
+
+-  Msc. Computer Engineering **İskenderun Technical University**
 
 - 🌱 Like all developers :) I’m currently learning **AI,Robotics,Machine Learning, Python**
 
